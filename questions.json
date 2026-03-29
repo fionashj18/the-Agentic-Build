@@ -1,0 +1,73 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who is credited with inventing the telephone in 1876?",
+      "type": "multiple_choice",
+      "options": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Guglielmo Marconi"
+      ],
+      "answer": "Alexander Graham Bell",
+      "category": "Inventors",
+      "hint": "He was born in Scotland and conducted his famous experiment with Watson."
+    },
+    {
+      "id": 2,
+      "question": "The World Wide Web was invented by Tim Berners-Lee.",
+      "type": "true_false",
+      "answer": "true",
+      "category": "Modern Inventions",
+      "hint": "He proposed it in 1989 while working at CERN."
+    },
+    {
+      "id": 3,
+      "question": "What did Marie Curie discover that earned her a Nobel Prize in Physics in 1903?",
+      "type": "multiple_choice",
+      "options": ["X-rays", "Radioactivity", "Penicillin", "The electron"],
+      "answer": "Radioactivity",
+      "category": "Science Inventions",
+      "hint": "Her work involved uranium and polonium."
+    },
+    {
+      "id": 4,
+      "question": "What name is given to the printing method invented by Johannes Gutenberg around 1440?",
+      "type": "short_answer",
+      "answer": "movable type",
+      "category": "Historic Inventions",
+      "hint": "It involved individual letter blocks that could be rearranged."
+    },
+    {
+      "id": 5,
+      "question": "Thomas Edison invented the first practical light bulb in 1879.",
+      "type": "true_false",
+      "answer": "true",
+      "category": "Inventors"
+    },
+    {
+      "id": 6,
+      "question": "Which country did Nikola Tesla emigrate to in 1884 to further his electrical research?",
+      "type": "multiple_choice",
+      "options": ["Germany", "United Kingdom", "United States", "France"],
+      "answer": "United States",
+      "category": "Inventors",
+      "hint": "He eventually worked directly with Thomas Edison after arriving."
+    },
+    {
+      "id": 7,
+      "question": "What material did John Pemberton originally market his 1886 invention — later known as Coca-Cola — as?",
+      "type": "multiple_choice",
+      "options": [
+        "An alcoholic spirit",
+        "A patent medicine",
+        "A sports drink",
+        "A breakfast tonic"
+      ],
+      "answer": "A patent medicine",
+      "category": "Historic Inventions",
+      "hint": "It was originally sold at pharmacies, not restaurants."
+    }
+  ]
+}
